@@ -1,0 +1,16 @@
+#form{
+    width: 500px;
+}
+
+
+.bi-laptop,.bi-person-fill,.bi-people-fill{
+    font-size: 64px;
+    color: white;
+}
+
+.m-img{
+    width: 100px;
+    height: 100px;
+    margin: 0 auto;
+    margin-top: 10px;
+}
